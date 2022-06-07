@@ -1,12 +1,12 @@
-import React from 'react';
+import React from "react";
 
 const Header = () => {
   return (
     <>
       <h1>Hangman</h1>
-      <p>Find the hidden sport - Enter a letter</p>
+      <p>Guess the hidden sport - Enter a letter</p>
     </>
-  )
-}
+  );
+};
 
-export default Header
+export default Header;

@@ -16,4 +16,4 @@ const WrongLetters = ({ wrongLetters }) => {
   )
 }
 
-export default WrongLetters
+export default WrongLetters;

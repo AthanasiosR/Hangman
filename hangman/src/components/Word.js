@@ -15,4 +15,4 @@ function Word({selectedWord, correctLetters}) {
   )
 }
 
-export default Word
+export default Word;
