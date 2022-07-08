@@ -22,7 +22,6 @@ const words = [
   "badminton",
   "cricket",
   "darts",
-  "water polo",
   "nascar",
 ];
 let selectedWord = words[Math.floor(Math.random() * words.length)];
